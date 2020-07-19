@@ -24,10 +24,10 @@ public static int[] readInts(){
 <table>
 	<tbody>
 	<tr>
-		<td>public class Rational</td>
+		<td colspan="2">public class Rational</td>
 	</tr>
 	<tr>
-		<td>Rational(int numerator, int denominator)</td>
+		<td colspan="2">Rational(int numerator, int denominator)</td>
 	</tr>
 	<tr>
 		<td>Rational plus(Rational b)</td>
